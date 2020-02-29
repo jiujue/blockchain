@@ -1,0 +1,16 @@
+{
+  "name": "meetweb3",
+  "version": "1.0.0",
+  "description": "\" learn web3.js\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "solc": "^0.6.3",
+    "web3": "^1.2.6"
+  }
+}
